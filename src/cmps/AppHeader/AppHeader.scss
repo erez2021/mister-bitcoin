@@ -1,0 +1,24 @@
+.app-header {
+    height: 50px;
+    background-color: lightskyblue;
+    margin-bottom: 30px;
+    align-items: center;
+}
+.active-nav{
+    margin: 40px;
+    text-decoration: none;
+
+}
+
+.navlink{
+    text-decoration: none;
+}
+
+.header-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 17px;
+   font-weight: bold;
+ 
+}

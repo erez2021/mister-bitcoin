@@ -1,0 +1,23 @@
+.contactEditPage {}
+
+.contact-edit {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 50px;
+    input {
+        padding-top: 8px;
+        margin-bottom: 16px;
+    }
+}
+
+.save-contact, .delete-contact {
+    width: 180px;
+    height: 40px;
+    border-radius: 20px;
+    font-size: larger;
+    color: white;
+    background-color: rgb(187, 86, 101);
+}
+
